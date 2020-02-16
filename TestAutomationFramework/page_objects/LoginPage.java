@@ -2,7 +2,7 @@
 public class LoginPage {
 	
 	WebDriver driver;
-	//Adding more commentas
+	//Adding more commenta
 	
 	By userName = By.name("username");
 	By password = By.name("password");
